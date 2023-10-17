@@ -1,2 +1,2 @@
-# 23pythen3rd
+# 23pythㅇn3rd
 computational thinking and basic coding
